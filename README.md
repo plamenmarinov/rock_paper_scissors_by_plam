@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/117172634/214266365-21cd2f69-58a0-49a0-85b7-71e9d562dba6.png)
+                  ![image](https://user-images.githubusercontent.com/117172634/214266365-21cd2f69-58a0-49a0-85b7-71e9d562dba6.png)
 
 
 # rock_paper_scissors_by_plam
