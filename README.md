@@ -4,7 +4,7 @@
 # Rock_Paper_Scissors_by_Plam
 Rock-Paper-Scissors is a simple two-player game, where you and your opponent simultaneously choose one of the following three options: "rock", "paper", or "scissors".
 
-# Official rules of game Rock-Paper-Scissors
+# Official rules of game "Rock-Paper-Scissors"
 Although the game has a lot of complexity to it, the rules to play it are pretty simple.
 The game is played where players deliver hand signals that will represent the elements of the game; rock, paper and scissors. The outcome of the game is determined by 3 simple rules:
 
